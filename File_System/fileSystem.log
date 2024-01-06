@@ -1,0 +1,1104 @@
+[TRACE] 19:56:51:245 FileSystem/(4414:4414): Listo para escuchar
+[INFO] 19:56:51:873 FileSystem/(4414:4414): Cliente conectado en 127.0.0.1:8003 (a Memoria)
+
+[INFO] 19:56:52:609 FileSystem/(4414:4414): Se conecto un cliente
+[TRACE] 19:56:58:789 FileSystem/(4453:4453): Listo para escuchar
+[INFO] 19:56:58:789 FileSystem/(4453:4453): Cliente conectado en 127.0.0.1:8003 (a Memoria)
+
+[TRACE] 20:08:17:802 FileSystem/(5659:5659): Listo para escuchar
+[INFO] 20:08:17:802 FileSystem/(5659:5659): Servidor listo para recibir cliente
+[TRACE] 20:08:26:245 FileSystem/(5692:5692): Listo para escuchar
+[INFO] 20:08:26:358 FileSystem/(5692:5692): Servidor listo para recibir cliente
+[TRACE] 20:43:14:889 FileSystem/(8533:8533): Listo para escuchar
+[INFO] 20:43:14:889 FileSystem/(8533:8533): Servidor listo para recibir cliente
+[TRACE] 20:43:58:420 FileSystem/(8617:8617): Listo para escuchar
+[INFO] 20:43:58:420 FileSystem/(8617:8617): Servidor listo para recibir cliente
+[INFO] 20:45:05:084 FileSystem/(8617:8617): Se conecto un cliente
+[INFO] 13:48:03:305 FileSystem/(66590:66590): Servidor listo para recibir cliente
+[ERROR] 22:52:22:297 FileSystem/(10835:10835): no se encontro el archivo del superbloque
+[ERROR] 22:52:22:300 FileSystem/(10835:10835): Error al conectar (a Memoria)
+
+[ERROR] 23:16:38:084 FileSystem/(11127:11127): no se encontro el archivo del superbloque
+[INFO] 23:16:38:090 FileSystem/(11127:11127): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[ERROR] 23:42:32:296 FileSystem/(11828:11828): no se encontro el archivo del superbloque
+[ERROR] 23:42:32:299 FileSystem/(11828:11828): Error al conectar (a Memoria)
+
+[ERROR] 23:43:00:384 FileSystem/(11852:11852): no se encontro el archivo del superbloque
+[INFO] 23:43:00:389 FileSystem/(11852:11852): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[INFO] 23:44:04:409 FileSystem/(11828:11828): Se conecto un cliente
+[ERROR] 23:47:21:496 FileSystem/(11979:11979): no se encontro el archivo del superbloque
+[INFO] 23:47:21:507 FileSystem/(11979:11979): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[ERROR] 23:47:42:593 FileSystem/(12002:12002): no se encontro el archivo del superbloque
+[INFO] 23:47:42:593 FileSystem/(12002:12002): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[ERROR] 23:59:47:963 FileSystem/(12176:12176): no se encontro el archivo del superbloque
+[INFO] 23:59:47:965 FileSystem/(12176:12176): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[INFO] 23:59:54:845 FileSystem/(12176:12176): Se conecto un cliente
+[INFO] 23:59:54:846 FileSystem/(12176:12176): SE CONECTO UN CLIENTE
+[ERROR] 00:01:12:624 FileSystem/(12362:12362): no se encontro el archivo del superbloque
+[ERROR] 00:01:12:627 FileSystem/(12362:12362): Error al conectar (a Memoria)
+
+[ERROR] 00:02:23:332 FileSystem/(12422:12422): no se encontro el archivo del superbloque
+[INFO] 00:02:23:337 FileSystem/(12422:12422): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[INFO] 00:02:29:696 FileSystem/(12422:12422): Se conecto un cliente
+[ERROR] 00:04:46:241 FileSystem/(12606:12606): no se encontro el archivo del superbloque
+[INFO] 00:04:46:246 FileSystem/(12606:12606): Cliente conectado en 127.0.0.1:8002 (a Memoria)
+
+[ERROR] 00:12:51:108 FileSystem/(13005:13005): no se encontro el archivo del superbloque
+[ERROR] 00:16:28:539 FileSystem/(13043:13043): no se encontro el archivo del superbloque
+[ERROR] 00:22:35:542 FileSystem/(13162:13162): no se encontro el archivo del superbloque
+[ERROR] 00:26:35:032 FileSystem/(13265:13265): no se encontro el archivo del superbloque
+[ERROR] 00:27:17:931 FileSystem/(13286:13286): no se encontro el archivo del superbloque
+[ERROR] 00:27:53:111 FileSystem/(13305:13305): no se encontro el archivo del superbloque
+[ERROR] 00:27:54:200 FileSystem/(13317:13317): no se encontro el archivo del superbloque
+[ERROR] 00:28:29:336 FileSystem/(13339:13339): no se encontro el archivo del superbloque
+[INFO] 00:32:00:560 FileSystem/(13538:13538): 127.0.0.1 /n
+[INFO] 00:32:00:571 FileSystem/(13538:13538): /home/utnso/fs/bitmap.dat /n
+[INFO] 00:32:00:571 FileSystem/(13538:13538): /home/utnso/File_System/bloques.dat /n
+[INFO] 00:32:00:572 FileSystem/(13538:13538): /home/utnso/fs/fcb /n
+[INFO] 00:32:00:572 FileSystem/(13538:13538): 8003 /n
+[INFO] 00:32:00:572 FileSystem/(13538:13538): 8002 /n
+[INFO] 00:32:36:335 FileSystem/(13603:13603): 127.0.0.1 
+
+[INFO] 00:32:36:350 FileSystem/(13603:13603): /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:32:36:350 FileSystem/(13603:13603): /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:32:36:351 FileSystem/(13603:13603): /home/utnso/fs/fcb 
+
+[INFO] 00:32:36:351 FileSystem/(13603:13603): 8003 
+
+[INFO] 00:32:36:351 FileSystem/(13603:13603): 8002 
+
+[INFO] 00:33:45:454 FileSystem/(13656:13656): 127.0.0.1 
+
+[INFO] 00:33:45:454 FileSystem/(13656:13656): /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:33:45:454 FileSystem/(13656:13656): /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:33:45:454 FileSystem/(13656:13656): /home/utnso/fs/fcb 
+
+[INFO] 00:33:45:454 FileSystem/(13656:13656): 8003 
+
+[INFO] 00:33:45:455 FileSystem/(13656:13656): 8002 
+
+[INFO] 00:35:28:320 FileSystem/(13723:13723): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:35:28:324 FileSystem/(13723:13723): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:35:28:327 FileSystem/(13723:13723): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:35:28:327 FileSystem/(13723:13723): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:35:28:327 FileSystem/(13723:13723): MYPUERTP 8003 
+
+[INFO] 00:35:28:327 FileSystem/(13723:13723): PMEMORIA 8002 
+
+[INFO] 00:37:15:300 FileSystem/(13856:13856): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): MYPUERTP 8003 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): PMEMORIA 8002 
+
+[INFO] 00:37:15:328 FileSystem/(13856:13856): RETARDO -1992610224 
+
+[INFO] 00:37:15:329 FileSystem/(13856:13856): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[ERROR] 00:37:15:329 FileSystem/(13856:13856): no se encontro el archivo del superbloque
+[INFO] 00:45:14:929 FileSystem/(14115:14115): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:45:14:930 FileSystem/(14115:14115): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:45:14:930 FileSystem/(14115:14115): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:45:14:930 FileSystem/(14115:14115): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:45:14:930 FileSystem/(14115:14115): MYPUERTP 8003 
+
+[INFO] 00:45:14:930 FileSystem/(14115:14115): PMEMORIA 8002 
+
+[INFO] 00:45:14:931 FileSystem/(14115:14115): RETARDO 2143530576 
+
+[INFO] 00:45:14:931 FileSystem/(14115:14115): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[ERROR] 00:45:14:931 FileSystem/(14115:14115): no se encontro el archivo del superbloque
+[INFO] 00:51:45:312 FileSystem/(14211:14211): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:51:45:315 FileSystem/(14211:14211): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:51:45:316 FileSystem/(14211:14211): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:51:45:317 FileSystem/(14211:14211): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:51:45:317 FileSystem/(14211:14211): MYPUERTP 8003 
+
+[INFO] 00:51:45:317 FileSystem/(14211:14211): PMEMORIA 8002 
+
+[INFO] 00:51:45:317 FileSystem/(14211:14211): RETARDO 15000 
+
+[INFO] 00:51:45:317 FileSystem/(14211:14211): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[ERROR] 00:51:45:317 FileSystem/(14211:14211): no se encontro el archivo del superbloque
+[INFO] 00:53:25:153 FileSystem/(14276:14276): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:53:25:162 FileSystem/(14276:14276): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:53:25:162 FileSystem/(14276:14276): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:53:25:162 FileSystem/(14276:14276): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:53:25:162 FileSystem/(14276:14276): MYPUERTP 8003 
+
+[INFO] 00:53:25:162 FileSystem/(14276:14276): PMEMORIA 8002 
+
+[INFO] 00:53:25:163 FileSystem/(14276:14276): RETARDO 15000 
+
+[INFO] 00:53:25:163 FileSystem/(14276:14276): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 00:53:25:163 FileSystem/(14276:14276): Ìê~´ÚU
+[ERROR] 00:53:25:163 FileSystem/(14276:14276): no se encontro el archivo del superbloque
+[INFO] 00:53:41:652 FileSystem/(14321:14321): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:53:41:656 FileSystem/(14321:14321): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): MYPUERTP 8003 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): PMEMORIA 8002 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): RETARDO 15000 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 00:53:41:657 FileSystem/(14321:14321): Ú7§hU
+[ERROR] 00:53:41:657 FileSystem/(14321:14321): no se encontro el archivo del superbloque
+[INFO] 00:53:48:030 FileSystem/(14340:14340): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:53:48:032 FileSystem/(14340:14340): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:53:48:032 FileSystem/(14340:14340): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:53:48:032 FileSystem/(14340:14340): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:53:48:032 FileSystem/(14340:14340): MYPUERTP 8003 
+
+[INFO] 00:53:48:033 FileSystem/(14340:14340): PMEMORIA 8002 
+
+[INFO] 00:53:48:033 FileSystem/(14340:14340): RETARDO 15000 
+
+[INFO] 00:53:48:033 FileSystem/(14340:14340): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 00:53:48:033 FileSystem/(14340:14340): ßF
+ìV
+[ERROR] 00:53:48:033 FileSystem/(14340:14340): no se encontro el archivo del superbloque
+[INFO] 00:56:46:136 FileSystem/(14442:14442): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:56:46:245 FileSystem/(14442:14442): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:56:46:245 FileSystem/(14442:14442): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:56:46:245 FileSystem/(14442:14442): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:56:46:245 FileSystem/(14442:14442): MYPUERTP 8003 
+
+[INFO] 00:56:46:246 FileSystem/(14442:14442): PMEMORIA 8002 
+
+[INFO] 00:56:46:246 FileSystem/(14442:14442): RETARDO 15000 
+
+[INFO] 00:56:46:246 FileSystem/(14442:14442): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 00:56:46:246 FileSystem/(14442:14442): SUPERBLOQUE `5•`U 
+
+[INFO] 00:56:46:246 FileSystem/(14442:14442): `5•`U
+[ERROR] 00:56:46:247 FileSystem/(14442:14442): no se encontro el archivo del superbloque
+[INFO] 00:59:37:088 FileSystem/(14614:14614): IP MMOERIA 127.0.0.1 
+
+[INFO] 00:59:37:097 FileSystem/(14614:14614): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 00:59:37:097 FileSystem/(14614:14614): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): MYPUERTP 8003 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): PMEMORIA 8002 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): RETARDO 15000 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): SUPERBLOQUE ﬂßêp[U 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): PATH FCB Ô´êp[U 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): RETARDO 15000 
+
+[INFO] 00:59:37:099 FileSystem/(14614:14614): ﬂßêp[U
+[ERROR] 00:59:37:099 FileSystem/(14614:14614): no se encontro el archivo del superbloque
+[INFO] 01:06:18:071 FileSystem/(14998:14998): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): MYPUERTP 8003 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): PMEMORIA 8002 
+
+[INFO] 01:06:18:080 FileSystem/(14998:14998): RETARDO 15000 
+
+[INFO] 01:06:18:081 FileSystem/(14998:14998): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:06:18:081 FileSystem/(14998:14998): SUPERBLOQUE ˛—U2V 
+
+[INFO] 01:06:18:081 FileSystem/(14998:14998): PATH FCB Œ›U2V 
+
+[INFO] 01:06:18:081 FileSystem/(14998:14998): RETARDO 15000 
+
+[INFO] 01:06:18:081 FileSystem/(14998:14998): ˛—U2V
+[ERROR] 01:06:18:081 FileSystem/(14998:14998): no se encontro el archivo del superbloque
+[INFO] 01:06:56:935 FileSystem/(15067:15067): SUPERBLOQUE (null) 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): MYPUERTP 8003 
+
+[INFO] 01:06:56:936 FileSystem/(15067:15067): PMEMORIA 8002 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): RETARDO 15000 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): SUPERBLOQUE bì\oU 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): PATH FCB ¢ä\oU 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): RETARDO 15000 
+
+[INFO] 01:06:56:937 FileSystem/(15067:15067): bì\oU
+[ERROR] 01:06:56:937 FileSystem/(15067:15067): no se encontro el archivo del superbloque
+[INFO] 01:07:11:726 FileSystem/(15106:15106): INit SUPERBLOQUE (null) 
+
+[INFO] 01:07:11:728 FileSystem/(15106:15106): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:07:11:730 FileSystem/(15106:15106): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): MYPUERTP 8003 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): PMEMORIA 8002 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): RETARDO 15000 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): SUPERBLOQUE Õ∫a∞QV 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): PATH FCB ÌÄa∞QV 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): RETARDO 15000 
+
+[INFO] 01:07:11:731 FileSystem/(15106:15106): Õ∫a∞QV
+[ERROR] 01:07:11:731 FileSystem/(15106:15106): no se encontro el archivo del superbloque
+[INFO] 01:09:20:941 FileSystem/(15311:15311): INit SUPERBLOQUE (null) 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): MYPUERTP 8003 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): PMEMORIA 8002 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): RETARDO 15000 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): RETARDO 15000 
+
+[INFO] 01:09:20:944 FileSystem/(15311:15311): /home/utnso/File_System/superbloque.dat
+[ERROR] 01:09:20:944 FileSystem/(15311:15311): no se encontro el archivo del superbloque
+[INFO] 01:10:01:309 FileSystem/(15429:15429): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:10:01:312 FileSystem/(15429:15429): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:10:01:314 FileSystem/(15429:15429): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:10:01:314 FileSystem/(15429:15429): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:10:01:314 FileSystem/(15429:15429): MYPUERTP 8003 
+
+[INFO] 01:10:01:315 FileSystem/(15429:15429): PMEMORIA 8002 
+
+[INFO] 01:10:01:315 FileSystem/(15429:15429): RETARDO 15000 
+
+[INFO] 01:10:01:315 FileSystem/(15429:15429): SUPERBLOQUE /home/utnso/File_System/superbloque.dat 
+
+[INFO] 01:10:01:315 FileSystem/(15429:15429): /home/utnso/File_System/superbloque.dat
+[ERROR] 01:10:01:315 FileSystem/(15429:15429): no se encontro el archivo del superbloque
+[INFO] 01:11:33:869 FileSystem/(15837:15837): IP MMOERIA 127.0.0.1 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): PATH BITMAP /home/utnso/fs/bitmap.dat 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): PATH BLOQUES /home/utnso/File_System/bloques.dat 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): PATH FCB /home/utnso/fs/fcb 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): MYPUERTP 8003 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): PMEMORIA 8002 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): RETARDO 15000 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): SUPERBLOQUE /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat 
+
+[INFO] 01:11:33:870 FileSystem/(15837:15837): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:52:55:826 FileSystem/(22453:22453): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:53:38:005 FileSystem/(22527:22527): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:54:38:457 FileSystem/(22594:22594): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[ERROR] 22:56:05:938 FileSystem/(22638:22638): Error al conectar (a Memoria)
+
+[ERROR] 22:56:51:715 FileSystem/(22724:22724): Error al conectar (a Memoria)
+
+[INFO] 22:57:15:445 FileSystem/(22774:22774): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:57:27:465 FileSystem/(22813:22813): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:58:04:629 FileSystem/(22905:22905): levante config ok
+[INFO] 22:58:04:636 FileSystem/(22905:22905): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:58:32:367 FileSystem/(22958:22958): levante config ok
+[INFO] 22:58:32:374 FileSystem/(22958:22958): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:58:55:894 FileSystem/(23010:23010): levante config ok
+[INFO] 22:58:55:902 FileSystem/(23010:23010): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:58:55:903 FileSystem/(23010:23010): levante superbloque ok
+[INFO] 22:59:39:000 FileSystem/(23076:23076): levante config ok
+[INFO] 22:59:39:007 FileSystem/(23076:23076): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 22:59:52:368 FileSystem/(23166:23166): levante config ok
+[INFO] 22:59:52:369 FileSystem/(23166:23166): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 23:00:45:594 FileSystem/(23232:23232): levante config ok
+[INFO] 23:00:45:597 FileSystem/(23232:23232): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 23:00:45:598 FileSystem/(23232:23232): levante superbloque ok 64
+[INFO] 23:01:01:497 FileSystem/(23273:23273): levante config ok
+[INFO] 23:01:01:498 FileSystem/(23273:23273): /home/utnso/tp-2023-1c-Kernel-Masters/File_System/superbloque.dat
+[INFO] 23:01:01:498 FileSystem/(23273:23273): levante superbloque ok
+[INFO] 23:01:10:690 FileSystem/(23313:23313): levante config ok
+[INFO] 23:01:10:694 FileSystem/(23313:23313): levante superbloque ok
+[INFO] 23:01:31:125 FileSystem/(23350:23350): levante config ok
+[INFO] 23:01:31:128 FileSystem/(23350:23350): levante superbloque ok
+[ERROR] 23:01:31:129 FileSystem/(23350:23350): error abriendo archivo de bitmap
+[INFO] 23:02:27:424 FileSystem/(23380:23380): levante config ok
+[INFO] 23:02:27:431 FileSystem/(23380:23380): levante superbloque ok
+[INFO] 00:32:03:560 FileSystem/(23633:23633): levante config ok
+[INFO] 00:32:03:561 FileSystem/(23633:23633): levante superbloque ok
+[INFO] 00:37:06:898 FileSystem/(23700:23700): levante config ok
+[INFO] 00:37:06:909 FileSystem/(23700:23700): levante superbloque ok
+[INFO] 00:37:39:998 FileSystem/(23720:23720): levante config ok
+[INFO] 00:37:40:000 FileSystem/(23720:23720): levante superbloque ok
+[INFO] 00:38:15:379 FileSystem/(23771:23771): levante config ok
+[INFO] 00:38:15:392 FileSystem/(23771:23771): levante superbloque ok
+[INFO] 23:25:53:050 FileSystem/(29230:29230): levante config ok
+[INFO] 23:25:53:054 FileSystem/(29230:29230): levante superbloque ok
+[INFO] 23:27:02:229 FileSystem/(29319:29319): levante config ok
+[INFO] 23:27:02:236 FileSystem/(29319:29319): levante superbloque ok
+[INFO] 23:27:02:236 FileSystem/(29319:29319): Aca me rompo :(
+[INFO] 23:27:02:236 FileSystem/(29319:29319): bits 65536
+[INFO] 23:29:59:628 FileSystem/(29375:29375): levante config ok
+[INFO] 23:29:59:632 FileSystem/(29375:29375): levante superbloque ok
+[INFO] 23:29:59:632 FileSystem/(29375:29375): Aca me rompo :(
+[INFO] 23:29:59:632 FileSystem/(29375:29375): bits 65536
+[INFO] 23:33:14:928 FileSystem/(29441:29441): levante config ok
+[INFO] 23:33:14:930 FileSystem/(29441:29441): levante superbloque ok
+[INFO] 23:33:14:931 FileSystem/(29441:29441): bits 65536
+[INFO] 23:35:02:135 FileSystem/(29497:29497): levante config ok
+[INFO] 23:35:02:144 FileSystem/(29497:29497): levante superbloque ok
+[INFO] 23:35:02:148 FileSystem/(29497:29497): bits 65536
+[INFO] 21:38:36:334 FileSystem/(99043:99043): levante config ok
+[INFO] 21:38:42:479 FileSystem/(99043:99043): levante superbloque ok
+[INFO] 21:38:43:735 FileSystem/(99043:99043): bits 65536
+[INFO] 21:39:19:346 FileSystem/(99172:99172): levante config ok
+[INFO] 21:39:19:407 FileSystem/(99172:99172): levante superbloque ok
+[INFO] 21:39:19:408 FileSystem/(99172:99172): bits 65536
+[INFO] 21:41:00:899 FileSystem/(99195:99195): levante config ok
+[INFO] 21:41:00:901 FileSystem/(99195:99195): levante superbloque ok
+[INFO] 21:41:00:901 FileSystem/(99195:99195): bits 65536
+[INFO] 21:41:40:621 FileSystem/(99227:99227): levante config ok
+[INFO] 21:41:40:625 FileSystem/(99227:99227): levante superbloque ok
+[INFO] 21:41:50:710 FileSystem/(99227:99227): bits 65536
+[INFO] 21:43:14:188 FileSystem/(99303:99303): levante config ok
+[INFO] 21:43:14:201 FileSystem/(99303:99303): levante superbloque ok
+[INFO] 21:43:14:201 FileSystem/(99303:99303): bits 65536
+[INFO] 00:01:50:299 FileSystem/(1889:1889): levante config ok
+[INFO] 00:01:50:301 FileSystem/(1889:1889): levante superbloque ok
+[INFO] 00:01:50:301 FileSystem/(1889:1889): bits 65536
+[INFO] 18:41:07:070 FileSystem/(6203:6203): levante config ok
+[INFO] 18:41:07:078 FileSystem/(6203:6203): levante superbloque ok
+[INFO] 18:41:07:078 FileSystem/(6203:6203): bits 1024
+[INFO] 18:45:47:802 FileSystem/(6485:6485): levante config ok
+[INFO] 18:46:27:738 FileSystem/(6531:6531): levante config ok
+[INFO] 18:46:27:743 FileSystem/(6531:6531): levante superbloque ok
+[INFO] 18:46:27:743 FileSystem/(6531:6531): bits 1024
+[INFO] 18:47:09:959 FileSystem/(6585:6585): levante config ok
+[INFO] 18:47:09:961 FileSystem/(6585:6585): levante superbloque ok
+[INFO] 18:47:09:962 FileSystem/(6585:6585): bits 1024
+[INFO] 18:49:32:745 FileSystem/(6729:6729): levante config ok
+[INFO] 18:49:32:747 FileSystem/(6729:6729): levante superbloque ok
+[INFO] 18:49:32:747 FileSystem/(6729:6729): bits 1024
+[INFO] 18:49:32:747 FileSystem/(6729:6729): abrir archivo archivo_prueba.txt
+[ERROR] 18:49:32:747 FileSystem/(6729:6729): el archivo NO existe
+[INFO] 18:57:50:286 FileSystem/(6901:6901): levante config ok
+[INFO] 18:57:50:293 FileSystem/(6901:6901): levante superbloque ok
+[INFO] 18:57:50:293 FileSystem/(6901:6901): bits 1024
+[INFO] 18:57:50:293 FileSystem/(6901:6901): abrir archivo archivo_prueba.txt
+[INFO] 18:57:50:293 FileSystem/(6901:6901): path /home/utnso/tp-2023-1c-Kernel-Masters/File_System/fcb/archivo_prueba.txt
+[ERROR] 18:57:50:293 FileSystem/(6901:6901): el archivo NO existe
+[INFO] 19:00:15:910 FileSystem/(7044:7044): levante config ok
+[INFO] 19:00:15:911 FileSystem/(7044:7044): levante superbloque ok
+[INFO] 19:00:15:911 FileSystem/(7044:7044): bits 1024
+[INFO] 19:00:15:912 FileSystem/(7044:7044): abrir archivo archivo_prueba.txt
+[INFO] 19:00:15:912 FileSystem/(7044:7044): path 
+[ERROR] 19:00:15:912 FileSystem/(7044:7044): el archivo NO existe
+[INFO] 19:04:11:807 FileSystem/(7177:7177): levante config ok
+[INFO] 19:04:11:816 FileSystem/(7177:7177): levante superbloque ok
+[INFO] 19:04:11:816 FileSystem/(7177:7177): bits 1024
+[INFO] 19:04:11:816 FileSystem/(7177:7177): abrir archivo archivo_prueba.txt
+[INFO] 19:04:11:817 FileSystem/(7177:7177): path archivo_prueba.txt
+[INFO] 19:04:11:817 FileSystem/(7177:7177): path 
+[ERROR] 19:04:11:817 FileSystem/(7177:7177): el archivo NO existe
+[INFO] 19:05:25:587 FileSystem/(7317:7317): levante config ok
+[INFO] 19:05:25:593 FileSystem/(7317:7317): levante superbloque ok
+[INFO] 19:05:25:593 FileSystem/(7317:7317): bits 1024
+[INFO] 19:05:25:593 FileSystem/(7317:7317): abrir archivo archivo_prueba.txt
+[INFO] 19:05:25:593 FileSystem/(7317:7317): path archivo_prueba.txt
+[INFO] 19:06:24:996 FileSystem/(7397:7397): levante config ok
+[INFO] 19:06:24:999 FileSystem/(7397:7397): levante superbloque ok
+[INFO] 19:06:24:999 FileSystem/(7397:7397): bits 1024
+[INFO] 19:06:24:999 FileSystem/(7397:7397): abrir archivo archivo_prueba.txt
+[INFO] 19:06:25:000 FileSystem/(7397:7397): path archivo_prueba.txt
+[INFO] 19:06:25:001 FileSystem/(7397:7397): mori
+[INFO] 19:06:48:808 FileSystem/(7488:7488): levante config ok
+[INFO] 19:06:48:810 FileSystem/(7488:7488): levante superbloque ok
+[INFO] 19:06:48:810 FileSystem/(7488:7488): bits 1024
+[INFO] 19:06:48:810 FileSystem/(7488:7488): abrir archivo archivo_prueba.txt
+[INFO] 19:06:48:810 FileSystem/(7488:7488): path archivo_prueba.txt
+[INFO] 19:06:48:815 FileSystem/(7488:7488): mori
+[INFO] 19:07:03:159 FileSystem/(7538:7538): levante config ok
+[INFO] 19:07:03:160 FileSystem/(7538:7538): levante superbloque ok
+[INFO] 19:07:03:160 FileSystem/(7538:7538): bits 1024
+[INFO] 19:07:03:160 FileSystem/(7538:7538): abrir archivo archivo_prueba.txt
+[INFO] 19:07:03:160 FileSystem/(7538:7538): path archivo_prueba.txt
+[INFO] 19:07:03:160 FileSystem/(7538:7538): mori
+[INFO] 19:07:04:000 FileSystem/(7550:7550): levante config ok
+[INFO] 19:07:04:002 FileSystem/(7550:7550): levante superbloque ok
+[INFO] 19:07:04:002 FileSystem/(7550:7550): bits 1024
+[INFO] 19:07:04:002 FileSystem/(7550:7550): abrir archivo archivo_prueba.txt
+[INFO] 19:07:04:002 FileSystem/(7550:7550): path archivo_prueba.txt
+[INFO] 19:07:04:002 FileSystem/(7550:7550): mori
+[INFO] 19:07:44:270 FileSystem/(7649:7649): levante config ok
+[INFO] 19:07:44:272 FileSystem/(7649:7649): levante superbloque ok
+[INFO] 19:07:44:273 FileSystem/(7649:7649): bits 1024
+[INFO] 19:07:44:273 FileSystem/(7649:7649): abrir archivo archivo_prueba.txt
+[INFO] 19:07:44:273 FileSystem/(7649:7649): path archivo_prueba.txt
+[INFO] 19:07:44:273 FileSystem/(7649:7649): nombres (null) 
+[INFO] 19:07:44:273 FileSystem/(7649:7649): mori
+[INFO] 19:08:28:794 FileSystem/(7746:7746): levante config ok
+[INFO] 19:08:28:795 FileSystem/(7746:7746): levante superbloque ok
+[INFO] 19:08:28:795 FileSystem/(7746:7746): bits 1024
+[INFO] 19:08:28:795 FileSystem/(7746:7746): abrir archivo archivo_prueba.txt
+[INFO] 19:08:28:795 FileSystem/(7746:7746): path archivo_prueba.txt
+[INFO] 19:08:28:795 FileSystem/(7746:7746): abri
+[INFO] 19:08:28:795 FileSystem/(7746:7746): nombres (null) 
+[INFO] 19:08:28:795 FileSystem/(7746:7746): mori
+[INFO] 19:09:58:290 FileSystem/(7795:7795): levante config ok
+[INFO] 19:09:58:295 FileSystem/(7795:7795): levante superbloque ok
+[INFO] 19:09:58:295 FileSystem/(7795:7795): bits 1024
+[INFO] 19:09:58:295 FileSystem/(7795:7795): abrir archivo archivo_prueba.txt
+[INFO] 19:09:58:295 FileSystem/(7795:7795): path archivo_prueba.txt
+[INFO] 19:09:58:295 FileSystem/(7795:7795): abri
+[INFO] 19:09:58:295 FileSystem/(7795:7795): nombres Prueba 
+[INFO] 19:09:58:295 FileSystem/(7795:7795): mori
+[ERROR] 19:09:58:295 FileSystem/(7795:7795): Abri un archivo pero no coincide con su id, es esto posible? 
+[INFO] 19:11:08:466 FileSystem/(7856:7856): levante config ok
+[INFO] 19:11:08:468 FileSystem/(7856:7856): levante superbloque ok
+[INFO] 19:11:08:468 FileSystem/(7856:7856): bits 1024
+[INFO] 19:11:08:468 FileSystem/(7856:7856): abrir archivo archivo_prueba.txt
+[INFO] 19:11:08:468 FileSystem/(7856:7856): path archivo_prueba.txt
+[INFO] 19:11:08:469 FileSystem/(7856:7856): abri
+[INFO] 19:11:08:469 FileSystem/(7856:7856): nombres Prueba 
+[INFO] 19:11:08:469 FileSystem/(7856:7856): mori
+[INFO] 19:11:08:469 FileSystem/(7856:7856): el archivo existe
+[INFO] 19:11:34:009 FileSystem/(7898:7898): levante config ok
+[INFO] 19:11:34:009 FileSystem/(7898:7898): levante superbloque ok
+[INFO] 19:11:34:009 FileSystem/(7898:7898): bits 1024
+[INFO] 19:11:34:009 FileSystem/(7898:7898): abrir archivo hola.txt
+[INFO] 19:11:34:009 FileSystem/(7898:7898): path hola.txt
+[INFO] 19:11:34:009 FileSystem/(7898:7898): abri
+[INFO] 19:11:34:009 FileSystem/(7898:7898): nombres Prueba 
+[INFO] 19:11:34:009 FileSystem/(7898:7898): mori
+[INFO] 19:11:34:010 FileSystem/(7898:7898): el archivo existe
+[INFO] 19:12:24:092 FileSystem/(7955:7955): levante config ok
+[INFO] 19:12:24:100 FileSystem/(7955:7955): levante superbloque ok
+[INFO] 19:12:24:100 FileSystem/(7955:7955): bits 1024
+[INFO] 19:12:24:100 FileSystem/(7955:7955): abrir archivo hola.txt
+[INFO] 19:12:24:100 FileSystem/(7955:7955): path hola.txt
+[INFO] 19:12:24:103 FileSystem/(7955:7955): abri
+[INFO] 19:12:24:103 FileSystem/(7955:7955): nombres Prueba 
+[INFO] 19:12:24:103 FileSystem/(7955:7955): mori
+[INFO] 19:12:24:103 FileSystem/(7955:7955): el archivo existe
+[INFO] 19:12:46:300 FileSystem/(7998:7998): levante config ok
+[INFO] 19:12:46:304 FileSystem/(7998:7998): levante superbloque ok
+[INFO] 19:12:46:306 FileSystem/(7998:7998): bits 1024
+[INFO] 19:12:46:308 FileSystem/(7998:7998): abrir archivo hola.txt
+[INFO] 19:12:46:309 FileSystem/(7998:7998): path hola.txt
+[INFO] 19:12:46:309 FileSystem/(7998:7998): abri
+[INFO] 19:12:46:309 FileSystem/(7998:7998): nombres Prueba 
+[INFO] 19:12:46:309 FileSystem/(7998:7998): mori
+[ERROR] 19:12:46:309 FileSystem/(7998:7998): i cant
+[INFO] 19:12:46:309 FileSystem/(7998:7998): el archivo existe
+[INFO] 19:18:05:525 FileSystem/(8342:8342): levante config ok
+[INFO] 19:18:05:529 FileSystem/(8342:8342): levante superbloque ok
+[INFO] 19:18:05:529 FileSystem/(8342:8342): bits 1024
+[INFO] 19:18:05:529 FileSystem/(8342:8342): abrir archivo hola.txt
+[INFO] 19:18:52:334 FileSystem/(8412:8412): levante config ok
+[INFO] 19:18:52:337 FileSystem/(8412:8412): levante superbloque ok
+[INFO] 19:18:52:337 FileSystem/(8412:8412): bits 1024
+[INFO] 19:18:52:337 FileSystem/(8412:8412): abrir archivo hola.txt
+[INFO] 19:19:41:951 FileSystem/(8481:8481): levante config ok
+[INFO] 19:19:41:953 FileSystem/(8481:8481): levante superbloque ok
+[INFO] 19:19:41:953 FileSystem/(8481:8481): bits 1024
+[INFO] 19:19:41:953 FileSystem/(8481:8481): abrir archivo hola.txt
+[INFO] 19:19:51:838 FileSystem/(8525:8525): levante config ok
+[INFO] 19:19:51:840 FileSystem/(8525:8525): levante superbloque ok
+[INFO] 19:19:51:843 FileSystem/(8525:8525): bits 1024
+[INFO] 19:19:51:844 FileSystem/(8525:8525): abrir archivo hola.txt
+[INFO] 19:21:00:028 FileSystem/(8613:8613): levante config ok
+[INFO] 19:21:00:032 FileSystem/(8613:8613): levante superbloque ok
+[INFO] 19:21:00:032 FileSystem/(8613:8613): bits 1024
+[INFO] 19:21:00:032 FileSystem/(8613:8613): abrir archivo hola.txt
+[INFO] 19:21:00:033 FileSystem/(8613:8613): /hola.txt
+[INFO] 19:21:00:033 FileSystem/(8613:8613): path hola.txt
+[INFO] 19:21:00:033 FileSystem/(8613:8613): path 
+[ERROR] 19:21:00:033 FileSystem/(8613:8613): el archivo NO existe
+[ERROR] 19:21:00:033 FileSystem/(8613:8613): i cant
+[INFO] 19:21:00:033 FileSystem/(8613:8613): /hola.txt
+[INFO] 19:21:25:942 FileSystem/(8660:8660): levante config ok
+[INFO] 19:21:25:947 FileSystem/(8660:8660): levante superbloque ok
+[INFO] 19:21:25:951 FileSystem/(8660:8660): bits 1024
+[INFO] 19:21:25:952 FileSystem/(8660:8660): abrir archivo hola.txt
+[INFO] 19:21:25:952 FileSystem/(8660:8660): /hola.txt
+[INFO] 19:21:25:952 FileSystem/(8660:8660): path hola.txt
+[INFO] 19:21:25:952 FileSystem/(8660:8660): path 
+[ERROR] 19:21:25:952 FileSystem/(8660:8660): el archivo NO existe
+[ERROR] 19:21:25:952 FileSystem/(8660:8660): i cant
+[INFO] 19:21:25:952 FileSystem/(8660:8660): /hola.txt
+[INFO] 19:21:43:418 FileSystem/(8680:8680): levante config ok
+[INFO] 19:21:43:423 FileSystem/(8680:8680): levante superbloque ok
+[INFO] 19:21:43:423 FileSystem/(8680:8680): bits 1024
+[INFO] 19:21:43:423 FileSystem/(8680:8680): abrir archivo hola.txt
+[INFO] 19:21:43:423 FileSystem/(8680:8680): /hola.txt
+[INFO] 19:21:43:423 FileSystem/(8680:8680): path hola.txt
+[INFO] 19:21:43:423 FileSystem/(8680:8680): path 
+[ERROR] 19:21:43:423 FileSystem/(8680:8680): el archivo NO existe
+[ERROR] 19:21:43:423 FileSystem/(8680:8680): i cant
+[INFO] 19:21:43:424 FileSystem/(8680:8680): /hola.txt
+[INFO] 19:22:18:753 FileSystem/(8741:8741): levante config ok
+[INFO] 19:22:18:759 FileSystem/(8741:8741): levante superbloque ok
+[INFO] 19:22:18:762 FileSystem/(8741:8741): bits 1024
+[INFO] 19:22:18:762 FileSystem/(8741:8741): abrir archivo hola.txt
+[INFO] 19:22:18:762 FileSystem/(8741:8741): fcb/hola.txt
+[INFO] 19:22:18:762 FileSystem/(8741:8741): path hola.txt
+[INFO] 19:22:18:763 FileSystem/(8741:8741): path 
+[ERROR] 19:22:18:763 FileSystem/(8741:8741): el archivo NO existe
+[ERROR] 19:22:18:763 FileSystem/(8741:8741): i cant
+[INFO] 19:22:18:763 FileSystem/(8741:8741): fcb/hola.txt
+[INFO] 19:23:06:204 FileSystem/(8779:8779): levante config ok
+[INFO] 19:23:06:209 FileSystem/(8779:8779): levante superbloque ok
+[INFO] 19:23:06:209 FileSystem/(8779:8779): bits 1024
+[INFO] 19:23:06:210 FileSystem/(8779:8779): abrir archivo hola.txt
+[INFO] 19:23:06:210 FileSystem/(8779:8779): fcb/hola.txt
+[INFO] 19:23:06:210 FileSystem/(8779:8779): path hola.txt
+[INFO] 19:23:06:210 FileSystem/(8779:8779): path 
+[ERROR] 19:23:06:210 FileSystem/(8779:8779): el archivo NO existe
+[ERROR] 19:23:06:210 FileSystem/(8779:8779): i cant
+[INFO] 19:23:06:210 FileSystem/(8779:8779): fcb/hola.txt
+[INFO] 19:24:10:424 FileSystem/(8850:8850): levante config ok
+[INFO] 19:24:10:428 FileSystem/(8850:8850): levante superbloque ok
+[INFO] 19:24:10:428 FileSystem/(8850:8850): bits 1024
+[INFO] 19:24:10:428 FileSystem/(8850:8850): abrir archivo hola.txt
+[INFO] 19:24:10:428 FileSystem/(8850:8850): fcb/hola.txt
+[INFO] 19:24:10:429 FileSystem/(8850:8850): path hola.txt
+[INFO] 19:24:10:429 FileSystem/(8850:8850): path 
+[ERROR] 19:24:10:429 FileSystem/(8850:8850): el archivo NO existe
+[ERROR] 19:24:10:429 FileSystem/(8850:8850): i cant
+[INFO] 19:24:10:429 FileSystem/(8850:8850): entre
+[INFO] 19:24:10:429 FileSystem/(8850:8850): fcb/hola.txt
+[INFO] 19:24:53:404 FileSystem/(8878:8878): levante config ok
+[INFO] 19:24:53:409 FileSystem/(8878:8878): levante superbloque ok
+[INFO] 19:24:53:409 FileSystem/(8878:8878): bits 1024
+[INFO] 19:24:53:409 FileSystem/(8878:8878): abrir archivo hola.txt
+[INFO] 19:24:53:409 FileSystem/(8878:8878): fcb/hola.txt
+[INFO] 19:24:53:409 FileSystem/(8878:8878): path hola.txt
+[INFO] 19:24:53:409 FileSystem/(8878:8878): abri
+[INFO] 19:24:53:409 FileSystem/(8878:8878): nombres (null) 
+[INFO] 19:24:53:409 FileSystem/(8878:8878): mori
+[ERROR] 19:24:53:409 FileSystem/(8878:8878): i cant
+[INFO] 19:24:53:409 FileSystem/(8878:8878): el archivo existe
+[INFO] 19:25:08:357 FileSystem/(8897:8897): levante config ok
+[INFO] 19:25:08:364 FileSystem/(8897:8897): levante superbloque ok
+[INFO] 19:25:08:366 FileSystem/(8897:8897): bits 1024
+[INFO] 19:25:08:366 FileSystem/(8897:8897): abrir archivo hola.txt
+[INFO] 19:25:08:366 FileSystem/(8897:8897): fcb/hola.txt
+[INFO] 19:25:08:366 FileSystem/(8897:8897): path hola.txt
+[INFO] 19:25:08:366 FileSystem/(8897:8897): path 
+[ERROR] 19:25:08:366 FileSystem/(8897:8897): el archivo NO existe
+[ERROR] 19:25:08:366 FileSystem/(8897:8897): i cant
+[INFO] 19:25:08:366 FileSystem/(8897:8897): entre
+[INFO] 19:25:08:367 FileSystem/(8897:8897): fcb/hola.txt
+[INFO] 19:26:10:806 FileSystem/(8956:8956): levante config ok
+[INFO] 19:26:10:812 FileSystem/(8956:8956): levante superbloque ok
+[INFO] 19:26:10:812 FileSystem/(8956:8956): bits 1024
+[INFO] 19:26:10:812 FileSystem/(8956:8956): abrir archivo hola.txt
+[INFO] 19:26:10:812 FileSystem/(8956:8956): fcb/hola.txt
+[INFO] 19:26:10:812 FileSystem/(8956:8956): path hola.txt
+[INFO] 19:26:10:812 FileSystem/(8956:8956): path 
+[ERROR] 19:26:10:812 FileSystem/(8956:8956): el archivo NO existe
+[ERROR] 19:26:10:812 FileSystem/(8956:8956): i cant
+[INFO] 19:26:10:812 FileSystem/(8956:8956): entre
+[INFO] 19:26:10:812 FileSystem/(8956:8956): fcb/hola.txt
+[INFO] 19:26:42:118 FileSystem/(9003:9003): levante config ok
+[INFO] 19:26:42:121 FileSystem/(9003:9003): levante superbloque ok
+[INFO] 19:26:42:122 FileSystem/(9003:9003): bits 1024
+[INFO] 19:26:42:124 FileSystem/(9003:9003): abrir archivo hola.txt
+[INFO] 19:26:42:124 FileSystem/(9003:9003): fcb/hola.txt
+[INFO] 19:26:42:124 FileSystem/(9003:9003): path hola.txt
+[INFO] 19:26:42:124 FileSystem/(9003:9003): path 
+[ERROR] 19:26:42:124 FileSystem/(9003:9003): el archivo NO existe
+[INFO] 19:26:42:124 FileSystem/(9003:9003): entre
+[INFO] 19:26:42:124 FileSystem/(9003:9003): fcb/hola.txt
+[INFO] 19:27:56:235 FileSystem/(9103:9103): levante config ok
+[INFO] 19:27:56:237 FileSystem/(9103:9103): levante superbloque ok
+[INFO] 19:27:56:238 FileSystem/(9103:9103): bits 1024
+[INFO] 19:27:56:238 FileSystem/(9103:9103): abrir archivo hola.txt
+[INFO] 19:27:56:238 FileSystem/(9103:9103): fcb/hola.txt
+[INFO] 19:27:56:238 FileSystem/(9103:9103): path hola.txt
+[INFO] 19:27:56:238 FileSystem/(9103:9103): path 
+[ERROR] 19:27:56:238 FileSystem/(9103:9103): el archivo NO existe
+[INFO] 19:27:56:238 FileSystem/(9103:9103): entre
+[INFO] 19:27:56:238 FileSystem/(9103:9103): fcb/hola.txt
+[INFO] 19:28:36:727 FileSystem/(9160:9160): levante config ok
+[INFO] 19:28:36:731 FileSystem/(9160:9160): levante superbloque ok
+[INFO] 19:28:36:731 FileSystem/(9160:9160): bits 1024
+[INFO] 19:28:36:731 FileSystem/(9160:9160): abrir archivo hola.txt
+[INFO] 19:28:36:731 FileSystem/(9160:9160): fcb/hola.txt
+[INFO] 19:28:36:731 FileSystem/(9160:9160): path hola.txt
+[INFO] 19:28:36:732 FileSystem/(9160:9160): path 
+[ERROR] 19:28:36:732 FileSystem/(9160:9160): el archivo NO existe
+[INFO] 19:28:36:732 FileSystem/(9160:9160): entre
+[INFO] 19:28:36:732 FileSystem/(9160:9160): fcb/hola.txt
+[INFO] 19:28:36:732 FileSystem/(9160:9160): entre2
+[INFO] 19:28:47:322 FileSystem/(9205:9205): levante config ok
+[INFO] 19:28:47:326 FileSystem/(9205:9205): levante superbloque ok
+[INFO] 19:28:47:326 FileSystem/(9205:9205): bits 1024
+[INFO] 19:28:47:326 FileSystem/(9205:9205): abrir archivo hola.txt
+[INFO] 19:28:47:326 FileSystem/(9205:9205): fcb/hola.txt
+[INFO] 19:28:47:326 FileSystem/(9205:9205): path hola.txt
+[INFO] 19:28:47:326 FileSystem/(9205:9205): path 
+[ERROR] 19:28:47:326 FileSystem/(9205:9205): el archivo NO existe
+[INFO] 19:28:47:326 FileSystem/(9205:9205): entre
+[INFO] 19:28:47:326 FileSystem/(9205:9205): fcb/hola.txt
+[INFO] 19:28:47:326 FileSystem/(9205:9205): entre2
+[INFO] 19:39:54:377 FileSystem/(9361:9361): levante config ok
+[INFO] 19:39:54:381 FileSystem/(9361:9361): levante superbloque ok
+[INFO] 19:39:54:381 FileSystem/(9361:9361): bits 1024
+[INFO] 19:39:54:381 FileSystem/(9361:9361): abrir archivo hola.txt
+[INFO] 19:39:54:381 FileSystem/(9361:9361): fcb/hola.txt
+[INFO] 19:39:54:381 FileSystem/(9361:9361): path hola.txt
+[INFO] 19:39:54:381 FileSystem/(9361:9361): path 
+[ERROR] 19:39:54:381 FileSystem/(9361:9361): el archivo NO existe
+[INFO] 19:39:54:381 FileSystem/(9361:9361): entre
+[INFO] 19:39:54:381 FileSystem/(9361:9361): fcb/hola.txt
+[INFO] 19:39:54:381 FileSystem/(9361:9361): entre2
+[INFO] 19:39:54:381 FileSystem/(9361:9361): entre3
+[INFO] 19:39:54:381 FileSystem/(9361:9361): archivo creado/seteado exitosamente
+[INFO] 19:39:54:381 FileSystem/(9361:9361): cree el archivo
+[INFO] 19:41:01:853 FileSystem/(9434:9434): levante config ok
+[INFO] 19:41:01:854 FileSystem/(9434:9434): levante superbloque ok
+[INFO] 19:41:01:854 FileSystem/(9434:9434): bits 1024
+[INFO] 19:41:01:854 FileSystem/(9434:9434): abrir archivo hola.txt
+[INFO] 19:41:01:854 FileSystem/(9434:9434): fcb/hola.txt
+[INFO] 19:41:01:854 FileSystem/(9434:9434): path hola.txt
+[INFO] 19:41:01:855 FileSystem/(9434:9434): abri
+[INFO] 19:41:01:855 FileSystem/(9434:9434): nombres hola.txt 
+[INFO] 19:41:01:855 FileSystem/(9434:9434): mori
+[INFO] 19:41:01:855 FileSystem/(9434:9434): el archivo existe
+[INFO] 19:41:50:634 FileSystem/(9487:9487): levante config ok
+[INFO] 19:41:50:636 FileSystem/(9487:9487): levante superbloque ok
+[INFO] 19:41:50:636 FileSystem/(9487:9487): bits 1024
+[INFO] 19:41:50:636 FileSystem/(9487:9487): abrir archivo hola.txt
+[INFO] 19:41:50:637 FileSystem/(9487:9487): fcb/hola.txt
+[INFO] 19:41:50:637 FileSystem/(9487:9487): path hola.txt
+[INFO] 19:41:50:637 FileSystem/(9487:9487): path 
+[ERROR] 19:41:50:637 FileSystem/(9487:9487): el archivo NO existe
+[INFO] 19:41:50:637 FileSystem/(9487:9487): entre
+[INFO] 19:41:50:637 FileSystem/(9487:9487): fcb/hola.txt
+[INFO] 19:41:50:637 FileSystem/(9487:9487): entre2
+[INFO] 19:41:50:637 FileSystem/(9487:9487): entre3
+[INFO] 19:41:50:637 FileSystem/(9487:9487): archivo creado/seteado exitosamente
+[INFO] 19:41:50:637 FileSystem/(9487:9487): cree el archivo
+[INFO] 19:42:12:591 FileSystem/(9533:9533): levante config ok
+[INFO] 19:42:12:594 FileSystem/(9533:9533): levante superbloque ok
+[INFO] 19:42:12:594 FileSystem/(9533:9533): bits 1024
+[INFO] 19:42:12:594 FileSystem/(9533:9533): abrir archivo hola.txt
+[INFO] 19:42:12:594 FileSystem/(9533:9533): fcb/hola.txt
+[INFO] 19:42:12:594 FileSystem/(9533:9533): path hola.txt
+[INFO] 19:42:12:594 FileSystem/(9533:9533): abri
+[INFO] 19:42:12:594 FileSystem/(9533:9533): nombres hola.txt 
+[INFO] 19:42:12:594 FileSystem/(9533:9533): mori
+[INFO] 19:42:12:594 FileSystem/(9533:9533): el archivo existe
+[INFO] 19:42:27:061 FileSystem/(9587:9587): levante config ok
+[INFO] 19:42:27:068 FileSystem/(9587:9587): levante superbloque ok
+[INFO] 19:42:27:068 FileSystem/(9587:9587): bits 1024
+[INFO] 19:42:27:068 FileSystem/(9587:9587): abrir archivo hola.txt
+[INFO] 19:42:27:068 FileSystem/(9587:9587): fcb/hola.txt
+[INFO] 19:42:27:068 FileSystem/(9587:9587): path hola.txt
+[INFO] 19:42:27:068 FileSystem/(9587:9587): path 
+[ERROR] 19:42:27:068 FileSystem/(9587:9587): el archivo NO existe
+[INFO] 19:42:27:068 FileSystem/(9587:9587): entre
+[INFO] 19:42:27:068 FileSystem/(9587:9587): fcb/hola.txt
+[INFO] 19:42:27:068 FileSystem/(9587:9587): entre2
+[INFO] 19:42:27:068 FileSystem/(9587:9587): entre3
+[INFO] 19:42:27:068 FileSystem/(9587:9587): archivo creado/seteado exitosamente
+[INFO] 19:42:27:068 FileSystem/(9587:9587): cree el archivo
+[INFO] 19:42:57:534 FileSystem/(9645:9645): levante config ok
+[INFO] 19:42:57:536 FileSystem/(9645:9645): levante superbloque ok
+[INFO] 19:42:57:537 FileSystem/(9645:9645): bits 1024
+[INFO] 19:42:57:537 FileSystem/(9645:9645): abrir archivo hola.txt
+[INFO] 19:42:57:537 FileSystem/(9645:9645): fcb/hola.txt
+[INFO] 19:42:57:537 FileSystem/(9645:9645): path hola.txt
+[INFO] 19:42:57:537 FileSystem/(9645:9645): path 
+[ERROR] 19:42:57:537 FileSystem/(9645:9645): el archivo NO existe
+[INFO] 19:42:57:537 FileSystem/(9645:9645): entre
+[INFO] 19:42:57:537 FileSystem/(9645:9645): fcb/hola.txt
+[INFO] 19:42:57:537 FileSystem/(9645:9645): entre2
+[INFO] 19:42:57:537 FileSystem/(9645:9645): entre3
+[INFO] 19:42:57:539 FileSystem/(9645:9645): archivo creado/seteado exitosamente
+[INFO] 19:42:57:539 FileSystem/(9645:9645): cree el archivo
+[INFO] 19:42:57:539 FileSystem/(9645:9645): fcb/hola.txt
+[INFO] 19:42:57:539 FileSystem/(9645:9645): path hola.txt
+[INFO] 19:42:57:539 FileSystem/(9645:9645): abri
+[INFO] 19:42:57:539 FileSystem/(9645:9645): nombres hola.txt 
+[INFO] 19:42:57:540 FileSystem/(9645:9645): mori
+[INFO] 19:43:21:771 FileSystem/(9660:9660): levante config ok
+[INFO] 19:43:21:772 FileSystem/(9660:9660): levante superbloque ok
+[INFO] 19:43:21:774 FileSystem/(9660:9660): bits 1024
+[INFO] 19:43:21:774 FileSystem/(9660:9660): abrir archivo hola.txt
+[INFO] 19:43:21:774 FileSystem/(9660:9660): fcb/hola.txt
+[INFO] 19:43:21:774 FileSystem/(9660:9660): path hola.txt
+[INFO] 19:43:21:774 FileSystem/(9660:9660): abri
+[INFO] 19:43:21:774 FileSystem/(9660:9660): nombres hola.txt 
+[INFO] 19:43:21:774 FileSystem/(9660:9660): mori
+[INFO] 19:43:21:774 FileSystem/(9660:9660): el archivo existe
+[INFO] 21:13:34:556 FileSystem/(12060:12060): levante config ok
+[INFO] 21:13:34:558 FileSystem/(12060:12060): levante superbloque ok
+[INFO] 21:13:34:558 FileSystem/(12060:12060): bits 1024
+[INFO] 21:13:34:558 FileSystem/(12060:12060): abrir archivo hola.txt
+[INFO] 21:13:34:558 FileSystem/(12060:12060): fcb/hola.txt
+[INFO] 21:13:34:558 FileSystem/(12060:12060): path hola.txt
+[INFO] 21:13:34:559 FileSystem/(12060:12060): nombres hola.txt 
+[INFO] 21:13:34:559 FileSystem/(12060:12060): mori
+[INFO] 21:13:34:559 FileSystem/(12060:12060): el archivo existe
+[INFO] 21:13:34:559 FileSystem/(12060:12060): contenidohola.txt
+[INFO] 21:13:53:429 FileSystem/(12110:12110): levante config ok
+[INFO] 21:13:53:430 FileSystem/(12110:12110): levante superbloque ok
+[INFO] 21:13:53:430 FileSystem/(12110:12110): bits 1024
+[INFO] 21:13:53:430 FileSystem/(12110:12110): abrir archivo hola.txt
+[INFO] 21:13:53:430 FileSystem/(12110:12110): fcb/hola.txt
+[INFO] 21:13:53:430 FileSystem/(12110:12110): path hola.txt
+[INFO] 21:13:53:430 FileSystem/(12110:12110): nombres hola.txt 
+[INFO] 21:13:53:430 FileSystem/(12110:12110): mori
+[INFO] 21:13:53:430 FileSystem/(12110:12110): el archivo existe
+[INFO] 21:13:53:430 FileSystem/(12110:12110): contenido hola.txt /n
+[INFO] 21:14:03:574 FileSystem/(12177:12177): levante config ok
+[INFO] 21:14:03:578 FileSystem/(12177:12177): levante superbloque ok
+[INFO] 21:14:03:578 FileSystem/(12177:12177): bits 1024
+[INFO] 21:14:03:578 FileSystem/(12177:12177): abrir archivo hola.txt
+[INFO] 21:14:03:578 FileSystem/(12177:12177): fcb/hola.txt
+[INFO] 21:14:03:578 FileSystem/(12177:12177): path hola.txt
+[INFO] 21:14:03:578 FileSystem/(12177:12177): nombres hola.txt 
+[INFO] 21:14:03:578 FileSystem/(12177:12177): mori
+[INFO] 21:14:03:578 FileSystem/(12177:12177): el archivo existe
+[INFO] 21:14:03:578 FileSystem/(12177:12177): contenido hola.txt 
+
+[INFO] 21:16:35:049 FileSystem/(12549:12549): levante config ok
+[INFO] 21:16:35:052 FileSystem/(12549:12549): levante superbloque ok
+[INFO] 21:16:35:052 FileSystem/(12549:12549): bits 1024
+[INFO] 21:16:35:052 FileSystem/(12549:12549): abrir archivo hola.txt
+[INFO] 21:16:35:052 FileSystem/(12549:12549): fcb/hola.txt
+[INFO] 21:16:35:052 FileSystem/(12549:12549): path hola.txt
+[INFO] 21:16:35:052 FileSystem/(12549:12549): nombres hola.txt 
+[INFO] 21:16:35:052 FileSystem/(12549:12549): mori
+[INFO] 21:16:35:052 FileSystem/(12549:12549): el archivo existe
+[INFO] 21:16:35:052 FileSystem/(12549:12549): contenido Yπ·˙ÉU 
+
+[INFO] 21:17:56:734 FileSystem/(12876:12876): levante config ok
+[INFO] 21:17:56:745 FileSystem/(12876:12876): levante superbloque ok
+[INFO] 21:17:56:746 FileSystem/(12876:12876): bits 1024
+[INFO] 21:17:56:746 FileSystem/(12876:12876): abrir archivo hola.txt
+[INFO] 21:17:56:746 FileSystem/(12876:12876): fcb/hola.txt
+[INFO] 21:17:56:746 FileSystem/(12876:12876): path hola.txt
+[INFO] 21:17:56:747 FileSystem/(12876:12876): nombres hola.txt 
+[INFO] 21:17:56:748 FileSystem/(12876:12876): mori
+[INFO] 21:17:56:749 FileSystem/(12876:12876): el archivo existe
+[INFO] 21:17:56:749 FileSystem/(12876:12876): contenido 1¨u—ØU 
+
+[INFO] 21:19:05:585 FileSystem/(13011:13011): levante config ok
+[INFO] 21:19:05:589 FileSystem/(13011:13011): levante superbloque ok
+[INFO] 21:19:05:589 FileSystem/(13011:13011): bits 1024
+[INFO] 21:19:05:589 FileSystem/(13011:13011): abrir archivo hola.txt
+[INFO] 21:19:05:589 FileSystem/(13011:13011): fcb/hola.txt
+[INFO] 21:19:05:589 FileSystem/(13011:13011): path hola.txt
+[INFO] 21:19:05:589 FileSystem/(13011:13011): nombres hola.txt 
+[INFO] 21:19:05:590 FileSystem/(13011:13011): mori
+[INFO] 21:19:05:590 FileSystem/(13011:13011): el archivo existe
+[INFO] 21:19:05:590 FileSystem/(13011:13011): contenido †‡¶rŒU 
+
+[INFO] 21:19:50:471 FileSystem/(13060:13060): levante config ok
+[INFO] 21:19:50:474 FileSystem/(13060:13060): levante superbloque ok
+[INFO] 21:19:50:474 FileSystem/(13060:13060): bits 1024
+[INFO] 21:19:50:474 FileSystem/(13060:13060): abrir archivo hola.txt
+[INFO] 21:19:50:474 FileSystem/(13060:13060): fcb/hola.txt
+[INFO] 21:19:50:474 FileSystem/(13060:13060): path hola.txt
+[INFO] 21:19:50:474 FileSystem/(13060:13060): nombres hola.txt 
+[INFO] 21:19:50:474 FileSystem/(13060:13060): mori
+[INFO] 21:19:50:474 FileSystem/(13060:13060): el archivo existe
+[INFO] 21:19:50:475 FileSystem/(13060:13060): contenido  
+
+[INFO] 21:20:37:579 FileSystem/(13114:13114): levante config ok
+[INFO] 21:20:37:581 FileSystem/(13114:13114): levante superbloque ok
+[INFO] 21:20:37:582 FileSystem/(13114:13114): bits 1024
+[INFO] 21:20:37:583 FileSystem/(13114:13114): abierto
+[INFO] 21:20:37:584 FileSystem/(13114:13114): abrir archivo hola.txt
+[INFO] 21:20:37:585 FileSystem/(13114:13114): fcb/hola.txt
+[INFO] 21:20:37:585 FileSystem/(13114:13114): path hola.txt
+[INFO] 21:20:37:585 FileSystem/(13114:13114): nombres hola.txt 
+[INFO] 21:20:37:585 FileSystem/(13114:13114): mori
+[INFO] 21:20:37:585 FileSystem/(13114:13114): el archivo existe
+[INFO] 21:20:37:586 FileSystem/(13114:13114): contenido °Oπ~≥U 
+
+[INFO] 21:21:27:456 FileSystem/(13181:13181): levante config ok
+[INFO] 21:21:27:460 FileSystem/(13181:13181): levante superbloque ok
+[INFO] 21:21:27:460 FileSystem/(13181:13181): bits 1024
+[INFO] 21:21:27:460 FileSystem/(13181:13181): abierto
+[INFO] 21:21:27:460 FileSystem/(13181:13181): abrir archivo hola.txt
+[INFO] 21:21:27:460 FileSystem/(13181:13181): el archivo existe
+[INFO] 21:21:27:461 FileSystem/(13181:13181): contenido {éè‘uU 
+
+[INFO] 21:22:16:652 FileSystem/(13239:13239): levante config ok
+[INFO] 21:22:16:653 FileSystem/(13239:13239): levante superbloque ok
+[INFO] 21:22:16:653 FileSystem/(13239:13239): bits 1024
+[INFO] 21:22:16:654 FileSystem/(13239:13239): abierto
+[INFO] 21:22:16:654 FileSystem/(13239:13239): abrir archivo hola.txt
+[INFO] 21:22:16:657 FileSystem/(13239:13239): el archivo existe
+[INFO] 21:22:16:658 FileSystem/(13239:13239): contenido Ö]Ω’U 
+
+[INFO] 21:25:03:931 FileSystem/(13371:13371): levante config ok
+[INFO] 21:25:03:933 FileSystem/(13371:13371): levante superbloque ok
+[INFO] 21:25:03:933 FileSystem/(13371:13371): bits 1024
+[INFO] 21:25:03:933 FileSystem/(13371:13371): abierto
+[INFO] 21:25:03:934 FileSystem/(13371:13371): contendio llllllll
+[INFO] 21:25:03:934 FileSystem/(13371:13371): abrir archivo hola.txt
+[INFO] 21:25:03:935 FileSystem/(13371:13371): el archivo existe
+[INFO] 21:25:03:935 FileSystem/(13371:13371): contenido πN¸sÊU 
+
+[INFO] 21:30:43:650 FileSystem/(13461:13461): levante config ok
+[INFO] 21:30:43:655 FileSystem/(13461:13461): levante superbloque ok
+[INFO] 21:30:43:655 FileSystem/(13461:13461): bits 1024
+[INFO] 21:30:43:655 FileSystem/(13461:13461): abierto
+[INFO] 21:30:43:655 FileSystem/(13461:13461): contendio holacomo
+[INFO] 21:30:43:655 FileSystem/(13461:13461): abrir archivo hola.txt
+[INFO] 21:30:43:655 FileSystem/(13461:13461): el archivo existe
+[INFO] 21:30:43:655 FileSystem/(13461:13461): contenido ¨°`í@V 
+
+[INFO] 21:40:42:681 FileSystem/(13716:13716): levante config ok
+[INFO] 21:40:42:691 FileSystem/(13716:13716): levante superbloque ok
+[INFO] 21:40:42:691 FileSystem/(13716:13716): bits 1024
+[INFO] 21:40:42:691 FileSystem/(13716:13716): abierto
+[INFO] 21:40:42:691 FileSystem/(13716:13716): contendio aeldioar
+[INFO] 21:40:42:691 FileSystem/(13716:13716): abrir archivo hola.txt
+[INFO] 21:40:42:692 FileSystem/(13716:13716): el archivo existe
+[INFO] 21:41:09:100 FileSystem/(13762:13762): levante config ok
+[INFO] 21:41:09:104 FileSystem/(13762:13762): levante superbloque ok
+[INFO] 21:41:09:104 FileSystem/(13762:13762): bits 1024
+[INFO] 21:41:09:104 FileSystem/(13762:13762): abierto
+[INFO] 21:41:09:104 FileSystem/(13762:13762): contendio holacomo
+[INFO] 21:41:09:104 FileSystem/(13762:13762): abrir archivo hola.txt
+[INFO] 21:41:09:104 FileSystem/(13762:13762): el archivo existe
+[INFO] 21:42:13:205 FileSystem/(13782:13782): levante config ok
+[INFO] 21:42:13:207 FileSystem/(13782:13782): levante superbloque ok
+[INFO] 21:42:13:207 FileSystem/(13782:13782): bits 1024
+[INFO] 21:42:13:207 FileSystem/(13782:13782): abierto
+[INFO] 21:42:13:207 FileSystem/(13782:13782): contendio holacomo
+[INFO] 21:42:13:207 FileSystem/(13782:13782): abrir archivo hola.txt
+[INFO] 21:42:13:207 FileSystem/(13782:13782): el archivo existe
+[INFO] 21:43:38:953 FileSystem/(13832:13832): levante config ok
+[INFO] 21:43:38:957 FileSystem/(13832:13832): levante superbloque ok
+[INFO] 21:43:38:957 FileSystem/(13832:13832): bits 1024
+[INFO] 21:43:38:957 FileSystem/(13832:13832): abierto
+[INFO] 21:43:38:957 FileSystem/(13832:13832): contendiol holacomo
+[INFO] 21:43:38:957 FileSystem/(13832:13832): abrir archivo hola.txt
+[INFO] 21:43:38:957 FileSystem/(13832:13832): el archivo existe
+[INFO] 21:43:57:198 FileSystem/(13885:13885): levante config ok
+[INFO] 21:43:57:198 FileSystem/(13885:13885): levante superbloque ok
+[INFO] 21:43:57:198 FileSystem/(13885:13885): bits 1024
+[INFO] 21:43:57:198 FileSystem/(13885:13885): abierto
+[INFO] 21:43:57:198 FileSystem/(13885:13885): contendiol holacomoandasjajque ok
+[INFO] 21:43:57:198 FileSystem/(13885:13885): abrir archivo hola.txt
+[INFO] 21:43:57:198 FileSystem/(13885:13885): el archivo existe
+[INFO] 21:45:54:521 FileSystem/(13948:13948): levante config ok
+[INFO] 21:45:54:522 FileSystem/(13948:13948): levante superbloque ok
+[INFO] 21:45:54:522 FileSystem/(13948:13948): bits 1024
+[INFO] 21:45:54:522 FileSystem/(13948:13948): abierto
+[INFO] 21:45:54:522 FileSystem/(13948:13948): contendiol ‚®p/V
+[INFO] 21:45:54:522 FileSystem/(13948:13948): abrir archivo hola.txt
+[INFO] 21:45:54:522 FileSystem/(13948:13948): el archivo existe
+[INFO] 21:48:08:411 FileSystem/(14059:14059): levante config ok
+[INFO] 21:48:08:413 FileSystem/(14059:14059): levante superbloque ok
+[INFO] 21:48:08:413 FileSystem/(14059:14059): bits 1024
+[INFO] 21:48:08:413 FileSystem/(14059:14059): abierto
+[INFO] 21:48:08:413 FileSystem/(14059:14059): contenido: ˆ‚≥„≤U
+[INFO] 21:48:08:413 FileSystem/(14059:14059): abrir archivo hola.txt
+[INFO] 21:48:08:414 FileSystem/(14059:14059): el archivo existe
+[INFO] 21:48:32:838 FileSystem/(14110:14110): levante config ok
+[INFO] 21:48:32:840 FileSystem/(14110:14110): levante superbloque ok
+[INFO] 21:48:32:844 FileSystem/(14110:14110): bits 1024
+[INFO] 21:48:32:846 FileSystem/(14110:14110): abierto
+[INFO] 21:48:32:846 FileSystem/(14110:14110): contenido: holacomo
+[INFO] 21:48:32:846 FileSystem/(14110:14110): abrir archivo hola.txt
+[INFO] 21:48:32:847 FileSystem/(14110:14110): el archivo existe
+[INFO] 21:49:30:759 FileSystem/(14176:14176): levante config ok
+[INFO] 21:49:30:765 FileSystem/(14176:14176): levante superbloque ok
+[INFO] 21:49:30:765 FileSystem/(14176:14176): bits 1024
+[INFO] 21:49:30:765 FileSystem/(14176:14176): abierto
+[INFO] 21:49:30:765 FileSystem/(14176:14176): contenido: holabU
+[INFO] 21:49:30:766 FileSystem/(14176:14176): abrir archivo hola.txt
+[INFO] 21:49:30:766 FileSystem/(14176:14176): el archivo existe
+[INFO] 21:50:13:929 FileSystem/(14196:14196): levante config ok
+[INFO] 21:50:13:931 FileSystem/(14196:14196): levante superbloque ok
+[INFO] 21:50:13:934 FileSystem/(14196:14196): bits 1024
+[INFO] 21:50:13:934 FileSystem/(14196:14196): abierto
+[INFO] 21:50:13:934 FileSystem/(14196:14196): contenido: holaëU
+[INFO] 21:50:13:934 FileSystem/(14196:14196): abrir archivo hola.txt
+[INFO] 21:50:13:934 FileSystem/(14196:14196): el archivo existe
+[INFO] 21:51:10:918 FileSystem/(14261:14261): levante config ok
+[INFO] 21:51:10:921 FileSystem/(14261:14261): levante superbloque ok
+[INFO] 21:51:10:921 FileSystem/(14261:14261): bits 1024
+[INFO] 21:51:10:921 FileSystem/(14261:14261): abierto
+[INFO] 21:51:10:921 FileSystem/(14261:14261): contenido: holaU,cantbloques2
+[INFO] 21:51:10:921 FileSystem/(14261:14261): abrir archivo hola.txt
+[INFO] 21:51:10:921 FileSystem/(14261:14261): el archivo existe
+[INFO] 21:52:11:071 FileSystem/(14304:14304): levante config ok
+[INFO] 21:52:11:073 FileSystem/(14304:14304): levante superbloque ok
+[INFO] 21:52:11:073 FileSystem/(14304:14304): bits 1024
+[INFO] 21:52:11:073 FileSystem/(14304:14304): abierto
+[INFO] 21:52:11:073 FileSystem/(14304:14304): contenido: ‚Ãm6V,cantbloques0
+[INFO] 21:52:11:073 FileSystem/(14304:14304): abrir archivo hola.txt
+[INFO] 21:52:11:073 FileSystem/(14304:14304): el archivo existe
+[INFO] 21:59:34:446 FileSystem/(14596:14596): levante config ok
+[INFO] 21:59:34:447 FileSystem/(14596:14596): levante superbloque ok
+[INFO] 21:59:34:447 FileSystem/(14596:14596): bits 1024
+[INFO] 21:59:34:447 FileSystem/(14596:14596): abierto
+[INFO] 21:59:34:448 FileSystem/(14596:14596): contenido: à¸fÛU,cantbloques0
+[INFO] 21:59:34:448 FileSystem/(14596:14596): abrir archivo hola.txt
+[INFO] 21:59:34:448 FileSystem/(14596:14596): el archivo existe
+[INFO] 22:04:58:967 FileSystem/(14810:14810): levante config ok
+[INFO] 22:04:58:979 FileSystem/(14810:14810): levante superbloque ok
+[INFO] 22:04:58:979 FileSystem/(14810:14810): bits 1024
+[INFO] 22:04:58:979 FileSystem/(14810:14810): abierto
+[INFO] 22:04:58:979 FileSystem/(14810:14810): res1040847346
+[INFO] 22:04:58:979 FileSystem/(14810:14810): contenido: 6è'`ÊU,cantbloques0
+[INFO] 22:04:58:979 FileSystem/(14810:14810): abrir archivo hola.txt
+[INFO] 22:04:58:980 FileSystem/(14810:14810): el archivo existe
+[INFO] 22:05:22:906 FileSystem/(14857:14857): levante config ok
+[INFO] 22:05:22:907 FileSystem/(14857:14857): levante superbloque ok
+[INFO] 22:05:22:907 FileSystem/(14857:14857): bits 1024
+[INFO] 22:05:22:907 FileSystem/(14857:14857): abierto
+[INFO] 22:05:22:907 FileSystem/(14857:14857): res1
+[INFO] 22:05:22:907 FileSystem/(14857:14857): contenido: å”ˇ]«U,cantbloques0
+[INFO] 22:05:22:907 FileSystem/(14857:14857): abrir archivo hola.txt
+[INFO] 22:05:22:909 FileSystem/(14857:14857): el archivo existe
+[INFO] 22:05:51:693 FileSystem/(14914:14914): levante config ok
+[INFO] 22:05:51:695 FileSystem/(14914:14914): levante superbloque ok
+[INFO] 22:05:51:696 FileSystem/(14914:14914): bits 1024
+[INFO] 22:05:51:697 FileSystem/(14914:14914): abierto
+[INFO] 22:05:51:698 FileSystem/(14914:14914): res128
+[INFO] 22:05:51:699 FileSystem/(14914:14914): contenido: holacomo,cantbloques1
+[INFO] 22:05:51:699 FileSystem/(14914:14914): abrir archivo hola.txt
+[INFO] 22:05:51:699 FileSystem/(14914:14914): el archivo existe
+[INFO] 22:06:10:351 FileSystem/(14961:14961): levante config ok
+[INFO] 22:06:10:352 FileSystem/(14961:14961): levante superbloque ok
+[INFO] 22:06:10:352 FileSystem/(14961:14961): bits 1024
+[INFO] 22:06:10:352 FileSystem/(14961:14961): abierto
+[INFO] 22:06:10:352 FileSystem/(14961:14961): res1
+[INFO] 22:06:10:353 FileSystem/(14961:14961): contenido: holacomo,cantbloques1
+[INFO] 22:06:10:353 FileSystem/(14961:14961): abrir archivo hola.txt
+[INFO] 22:06:10:353 FileSystem/(14961:14961): el archivo existe
+[INFO] 22:06:54:592 FileSystem/(15019:15019): levante config ok
+[INFO] 22:06:54:594 FileSystem/(15019:15019): levante superbloque ok
+[INFO] 22:06:54:594 FileSystem/(15019:15019): bits 1024
+[INFO] 22:06:54:594 FileSystem/(15019:15019): abierto
+[INFO] 22:06:54:594 FileSystem/(15019:15019): res2
+[INFO] 22:06:54:594 FileSystem/(15019:15019): contenido: holaV,cantbloques2
+[INFO] 22:06:54:594 FileSystem/(15019:15019): abrir archivo hola.txt
+[INFO] 22:06:54:594 FileSystem/(15019:15019): el archivo existe
+[INFO] 22:07:10:558 FileSystem/(15065:15065): levante config ok
+[INFO] 22:07:10:560 FileSystem/(15065:15065): levante superbloque ok
+[INFO] 22:07:10:560 FileSystem/(15065:15065): bits 1024
+[INFO] 22:07:10:560 FileSystem/(15065:15065): abierto
+[INFO] 22:07:10:560 FileSystem/(15065:15065): res3
+[INFO] 22:07:10:560 FileSystem/(15065:15065): contenido: holaco,cantbloques3
+[INFO] 22:07:10:560 FileSystem/(15065:15065): abrir archivo hola.txt
+[INFO] 22:07:10:561 FileSystem/(15065:15065): el archivo existe
+[INFO] 22:07:36:361 FileSystem/(15102:15102): levante config ok
+[INFO] 22:07:36:365 FileSystem/(15102:15102): levante superbloque ok
+[INFO] 22:07:36:367 FileSystem/(15102:15102): bits 1024
+[INFO] 22:07:36:368 FileSystem/(15102:15102): abierto
+[INFO] 22:07:36:368 FileSystem/(15102:15102): res4
+[INFO] 22:07:36:368 FileSystem/(15102:15102): contenido: holacomo,cantbloques4
+[INFO] 22:07:36:368 FileSystem/(15102:15102): abrir archivo hola.txt
+[INFO] 22:07:36:368 FileSystem/(15102:15102): el archivo existe
+[INFO] 05:47:16:114 FileSystem/(23027:23027): levante config ok
+[INFO] 05:47:16:117 FileSystem/(23027:23027): levante superbloque ok
+[INFO] 05:47:16:117 FileSystem/(23027:23027): bits 1024
+[INFO] 05:47:16:117 FileSystem/(23027:23027): abierto
+[INFO] 05:47:16:117 FileSystem/(23027:23027): res4
+[INFO] 05:47:16:117 FileSystem/(23027:23027): contenido: holacomo,cantbloques4
