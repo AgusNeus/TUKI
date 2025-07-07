@@ -82,11 +82,6 @@ Descargá MisFigus y llevá tu colección a otro nivel.**
 - **Jetpack Compose** para la interfaz de usuario  
 - **Google Maps SDK** para geolocalización y visualización de kioscos  
 - **Retrofit + Kotlin Serialization** para la comunicación entre app y backend  
-- **DataStore** para persistencia local en el dispositivo  
-- **Material Design 3** para el diseño visual  
 - **MVVM Architecture** para estructurar lógica y presentación  
-- **Coil** para carga de imágenes
-- **OkHttp** para manejo de red y logs
-
 ---
 **MisFigus** – Tu colección organizada, conectada y siempre con vos.
