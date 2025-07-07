@@ -66,6 +66,7 @@ Descargá MisFigus y llevá tu colección a otro nivel.**
 ¡Escribinos a soporte@misfigus.com o seguinos en redes sociales!
 
 ---
+![image](https://github.com/user-attachments/assets/a90dcc33-d70b-42e2-8a55-e9060215a8bd)
 
 ## ✅ ¿Por qué elegir MisFigus?
 
