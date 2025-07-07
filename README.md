@@ -50,9 +50,11 @@ Descargá MisFigus y llevá tu colección a otro nivel.**
 
 > (Agregá tus imágenes reales aquí)
 
-| Pantalla principal | Seguimiento de álbum | Intercambio | Mapa de kioscos | Kiosco especifico |
-|--------------------|----------------------|-------------|-----------------|-------------------|
-|![image](https://github.com/user-attachments/assets/798f057b-9114-4077-80c2-27cd6f04821d) |![image](https://github.com/user-attachments/assets/0b3f6e85-0574-42e8-83d6-b54849b80045) | ![image](https://github.com/user-attachments/assets/7746acd4-0073-4b46-be33-ee3e4b0eb1bc)|![image](https://github.com/user-attachments/assets/a422bf27-3b96-4f11-9239-95b9386a7468) | ![image](https://github.com/user-attachments/assets/2aa89c12-d2c9-4edd-8e66-9124a513dea3) |
+| Pantalla principal | Seguimiento de álbum | Intercambio | Mapa de kioscos | Kiosco especifico | Mis albumes| 
+|--------------------|----------------------|-------------|-----------------|-------------------|------------|
+|![image](https://github.com/user-attachments/assets/798f057b-9114-4077-80c2-27cd6f04821d) |![image](https://github.com/user-attachments/assets/0b3f6e85-0574-42e8-83d6-b54849b80045) | ![image](https://github.com/user-attachments/assets/7746acd4-0073-4b46-be33-ee3e4b0eb1bc)|![image](https://github.com/user-attachments/assets/a422bf27-3b96-4f11-9239-95b9386a7468) | ![image](https://github.com/user-attachments/assets/2aa89c12-d2c9-4edd-8e66-9124a513dea3) |![image](https://github.com/user-attachments/assets/0955b2fc-49aa-4e5e-ae98-2da67b763ebe) |![image](https://github.com/user-attachments/assets/6c98e874-86cf-420a-858e-8b8823a18fff)
+
+
 
 
 ## 🚀 Próximamente en:
