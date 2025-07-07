@@ -58,7 +58,8 @@ Descargá MisFigus y llevá tu colección a otro nivel.**
 
 | Intercambio | Canjeá | Mapa de kioscos | Kiosco específico | Valorar kiosco |
 |-------------|--------|-----------------|-------------------|----------------|
-| ![image](https://github.com/user-attachments/assets/7746acd4-0073-4b46-be33-ee3e4b0eb1bc) | ![image](https://github.com/user-attachments/assets/6c98e874-86cf-420a-858e-8b8823a18fff) | ![image](https://github.com/user-attachments/assets/a422bf27-3b96-4f11-9239-95b9386a7468) | ![image](https://github.com/user-attachments/assets/2aa89c12-d2c9-4edd-8e66-9124a513dea3) | ![image](https://github.com/user-attachments/assets/83cfe8f4-2373-4612-b9a8-27228bc06d6d) | ![image](https://github.com/user-attachments/assets/06d4423a-917b-413b-a4af-c58b840104fd)
+| ![image](https://github.com/user-attachments/assets/7746acd4-0073-4b46-be33-ee3e4b0eb1bc) | ![image](https://github.com/user-attachments/assets/6c98e874-86cf-420a-858e-8b8823a18fff) | ![image](https://github.com/user-attachments/assets/a422bf27-3b96-4f11-9239-95b9386a7468) | ![image](https://github.com/user-attachments/assets/2aa89c12-d2c9-4edd-8e66-9124a513dea3) | ![image](https://github.com/user-attachments/assets/83cfe8f4-2373-4612-b9a8-27228bc06d6d) | ![image](https://github.com/user-attachments/assets/06d4423a-917b-413b-a4af-c58b840104fd) | ![image](https://github.com/user-attachments/assets/c4253499-c059-4a92-85d1-104fc380907a)
+
 
 ## 🚀 Próximamente en:
 
